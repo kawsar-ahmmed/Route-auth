@@ -1,0 +1,13 @@
+.header a {
+    margin-right: 10px;
+    text-decoration: none;
+    color: black;
+}
+.header a:hover {
+    color: green;
+}
+
+.header a.active {
+    color: green;
+    font-weight: bold;
+}
